@@ -1,0 +1,7 @@
+{
+  "version": "1.2.1",
+  "release_date": "2026-11-11",
+  "changelog": "إصلاح تداخل نصوص السلة وإظهار الإضافات بوضوح، إضافة خيارات حذف الأقسام والأصناف والإضافات، إظهار الإضافات في الفاتورة وتذاكر المطبخ، وتفعيل التزامن الشبكي التلقائي.",
+  "download_url": "https://github.com/mustafaalyy/pos-updates/releases/download/v1.2.1/update_package_v1.2.1.zip",
+  "mandatory": false
+}
