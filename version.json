@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "release_date": "2026-11-11",
-  "changelog": "إصلاح نافذة اختيار الأحجام والإضافات للبيتزا والفطير والسندوتشات وقت تسجيل الطلب، وإصلاح النمط الفاتح (Light Mode) بالكامل.",
-  "download_url": "https://github.com/mustafaalyy/pos-updates/releases/download/v1.2.3/update_package_v1.2.3.zip",
+  "changelog": "إظهار أرقام الكميات بوضوح فائق بأزرار لمس سريعة [+] و [-] في سلة الطلب الحالية وقسم إنشاء الطلب، وتفعيل الفحص الذكي للتحديثات السحابية من أي رابط GitHub، وإصلاح نافذة الأحجام والإضافات.",
+  "download_url": "https://github.com/mustafaalyy/pos-updates/releases/download/v1.2.4/update_package_v1.2.4.zip",
   "mandatory": false
 }
