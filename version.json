@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "release_date": "2026-11-11",
-  "changelog": "إصلاح مظهر النمط الفاتح (Light Mode) بالكامل في شاشات العملاء والمناطق والمناديب، معالجة قص نصوص الأزرار، وتوضيح أسماء المناطق والمناديب، وتحديث السلة والإضافات.",
-  "download_url": "https://github.com/mustafaalyy/pos-updates/releases/download/v1.2.2/update_package_v1.2.2.zip",
+  "changelog": "إصلاح نافذة اختيار الأحجام والإضافات للبيتزا والفطير والسندوتشات وقت تسجيل الطلب، وإصلاح النمط الفاتح (Light Mode) بالكامل.",
+  "download_url": "https://github.com/mustafaalyy/pos-updates/releases/download/v1.2.3/update_package_v1.2.3.zip",
   "mandatory": false
 }
