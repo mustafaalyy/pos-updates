@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "release_date": "2026-11-11",
-  "changelog": "إظهار أرقام الكميات بوضوح فائق بأزرار لمس سريعة [+] و [-] في سلة الطلب الحالية وقسم إنشاء الطلب، وتفعيل الفحص الذكي للتحديثات السحابية من أي رابط GitHub، وإصلاح نافذة الأحجام والإضافات.",
-  "download_url": "https://github.com/mustafaalyy/pos-updates/releases/download/v1.2.4/update_package_v1.2.4.zip",
+  "version": "1.2.5",
+  "release_date": "2026-11-16",
+  "changelog": "إتاحة وتوحيد خيارات أنواع العيش في قسم السندوتشات (بيتي بان / فرنساوي / سوري) بأسعارها المحددة في المنيو في بطاقة واحدة لكل سندوتش، وإصلاح العرض في النمطين الفاتح والداكن.",
+  "download_url": "https://github.com/mustafaalyy/pos-updates/releases/download/v1.2.5/update_package_v1.2.5.zip",
   "mandatory": false
 }
